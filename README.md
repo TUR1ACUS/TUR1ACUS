@@ -39,8 +39,8 @@ I'm passionate about cybersecurity, data analysis, and web development. Here on 
 
 ### Stats Available
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TUR14CUS&theme=vue-dark&hide_border=true" /> <br>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUR14CUS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TUR1ACUS&theme=vue-dark&hide_border=true" /> <br>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUR1ACUS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 
 ## Projects
 
